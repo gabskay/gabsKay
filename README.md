@@ -9,8 +9,11 @@ Here are some ideas to get you started:
 <div align='center'>
  <img width="300" height="350" alt="lM8c6" src="https://github.com/user-attachments/assets/10f883e8-a6c1-4d7d-ba1a-f3b0d5a0faa9" />
 </div>
-- 🔭 I’m currently working on Frontend Development Projects.
-- 🌱 I’m currently learning Flutter for mobile and desktop apps.
-- 👯 I’m looking to collaborate on Frontend projects.
-- 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/gabriel-kumadey-9918a833a/)
-- ⚡ Fun fact: I like to discuss the future of AI and evolution of science and Technology 
+
+<ul style="list-style: none; padding: 0; margin: 20px 0;">
+  <li>🚀 <strong>Full Name:</strong> Gabriel</li>
+  <li>🎯 <strong>Focus:</strong> Web Development / Machine Learning</li>
+  <li>🛠️ <strong>Skills:</strong> React, Python, JavaScript, Git, Flutter</li>
+  <li>📍 <strong>Based in:</strong> Ghana</li>
+  <li> 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/gabriel-kumadey-9918a833a/)</li>
+</ul>

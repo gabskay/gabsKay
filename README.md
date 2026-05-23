@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Flutter for mobile and desktop apps.
 - 👯 I’m looking to collaborate on Frontend projects.
 - 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/gabriel-kumadey-9918a833a/)
-- ⚡ Fun fact: I like to discuss the future of AI and evolution o science and Technology 
+- ⚡ Fun fact: I like to discuss the future of AI and evolution of science and Technology 

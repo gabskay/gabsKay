@@ -6,8 +6,9 @@
 
 Here are some ideas to get you started:
 -->
+<div align='center'>
  <img width="300" height="350" alt="lM8c6" src="https://github.com/user-attachments/assets/10f883e8-a6c1-4d7d-ba1a-f3b0d5a0faa9" />
-
+</div>
 - 🔭 I’m currently working on Frontend Development Projects.
 - 🌱 I’m currently learning Flutter for mobile and desktop apps.
 - 👯 I’m looking to collaborate on Frontend projects.

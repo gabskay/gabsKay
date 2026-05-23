@@ -1,11 +1,12 @@
 ## Hi there my name is Gabriel 👋
 
 <!--
-**gabskay/gabsKay** is a ✨ _special_ ✨ repository because its `README.md` <img width="880" height="1168" alt="lM8c6" src="https://github.com/user-attachments/assets/10f883e8-a6c1-4d7d-ba1a-f3b0d5a0faa9" />
+**gabskay/gabsKay** is a ✨ _special_ ✨ repository because its `README.md`
 (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
+ <img width="880" height="1168" alt="lM8c6" src="https://github.com/user-attachments/assets/10f883e8-a6c1-4d7d-ba1a-f3b0d5a0faa9" />
 
 - 🔭 I’m currently working on Frontend Development Projects.
 - 🌱 I’m currently learning Flutter for mobile and desktop apps.
